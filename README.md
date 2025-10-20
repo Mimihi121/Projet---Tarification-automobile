@@ -2,7 +2,6 @@
 Projet de tarification automobile
 
 
-# Projet-de-tarification-automobile
 Projet de tarification automobile-Machine Learning sous Python
 Projet de tarification automobile Présentation Ce projet vise à modéliser la fréquence et le coût moyen des sinistres à l’aide de trois modèles de machine learning : Random Forest Regressor, Gradient Boosting Regressor et HistGradientBoosting Regressor.
 Les données, issues du package CASdatasets, permettent d’analyser séparément la fréquence des sinistres (nombre de sinistres par contrat) et leur coût moyen. La fréquence présente une distribution relativement stable, tandis que le coût moyen est très dispersé et asymétrique, en raison de sinistres exceptionnellement élevés.
